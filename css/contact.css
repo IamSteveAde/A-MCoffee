@@ -284,6 +284,7 @@ input[type=submit]{
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
+        border-radius: 80px;
     }
     .contact_intro_container .contact_intro_container_inner h1{
         font-size: 46px;
@@ -340,14 +341,14 @@ input[type=submit]{
     }
     #contact-us{
     
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/julian-hochgesang-Dkn8-zPIbwo-unsplash.JPG") fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/julian-hochgesang-Dkn8-zPIbwo-unsplash.jpg") fixed;
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
     }
     .contact_intro_container{
         height: 90vh;
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url("../../src/images/julian-hochgesang-Dkn8-zPIbwo-unsplash.JPG");
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url("../../src/images/julian-hochgesang-Dkn8-zPIbwo-unsplash.jpg");
         background-position-y: center;
         background-position-x: center;
         background-size: cover;
