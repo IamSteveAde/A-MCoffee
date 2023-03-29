@@ -1926,9 +1926,15 @@ blockquote {
   }
 }
 @media only screen and (max-width: 600px){
-  #bg_video{
+  #vids{
     width: 90%;
   }
 }
+@media only screen and (max-width: 600px){
+  #pic{
+    width: 60%;
+  }
+}
+
 
 /*# sourceMappingURL=style.css.map */
