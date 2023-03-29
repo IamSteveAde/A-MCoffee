@@ -348,7 +348,7 @@ input[type=submit]{
     }
     .contact_intro_container{
         height: 90vh;
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url("../../src/images/julian-hochgesang-Dkn8-zPIbwo-unsplash.jpg");
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url("../images/julian-hochgesang-Dkn8-zPIbwo-unsplash.jpg");
         background-position-y: center;
         background-position-x: center;
         background-size: cover;
