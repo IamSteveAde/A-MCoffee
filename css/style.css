@@ -1917,12 +1917,12 @@ blockquote {
 }
 @media only screen and (max-width: 600px){
   #vids{
-    margin-top: -90px;
+    margin-top: -100px;
   }
 }
 @media only screen and (max-width: 600px){
   #below{
-    margin-top: -80px;
+    margin-top: -100px;
   }
 }
 @media only screen and (max-width: 600px){
