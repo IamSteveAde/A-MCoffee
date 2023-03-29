@@ -1915,4 +1915,14 @@ blockquote {
 #abt{
   margin-top: 100px;
 }
+@media only screen and (max-width: 600px){
+  #vids{
+    margin-top: -80px;
+  }
+}
+@media only screen and (max-width: 600px){
+  #below{
+    margin-top: -70px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
